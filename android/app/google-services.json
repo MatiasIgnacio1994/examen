@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "816790448037",
+    "project_id": "examenfinal-722ce",
+    "storage_bucket": "examenfinal-722ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:816790448037:android:944f221701862c7aeb2a4c",
+        "android_client_info": {
+          "package_name": "com.example.crud"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFb9fxYXZwVR241Y-0XX2TC81y_jsOW9o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
